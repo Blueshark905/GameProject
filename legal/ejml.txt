@@ -1,0 +1,2 @@
+EJML is a matrix math library. It is released under Apache v2.0
+Website: https://ejml.org/wiki/index.php?title=Main_Page
